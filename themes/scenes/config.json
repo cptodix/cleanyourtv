@@ -1,4 +1,17 @@
 {
   "wallpaper": true,
-  "wallpaper_rotation_minutes": 60
+  "wallpaper_rotation_minutes": 10,
+  "dock_opacity": 30,
+  "advanced_effects": true,
+  "shamsi_date": false,
+  "handle_view_inputs": true,
+  "reorder_button": true,
+  "tile_menu": true,
+  "icon_only_buttons": true,
+  "icon_only_inputs": true,
+  "settings_key_panel": true,
+  "module_cards": true,
+  "focus_overshoot": false,
+  "live_tv_package": "com.tcl.tv",
+  "live_tv_action": ""
 }
